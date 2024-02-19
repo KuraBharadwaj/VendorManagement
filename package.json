@@ -33,6 +33,7 @@
       "deploy-format": "hdbtable"
     },
     "requires": {
+      "auth": "xsuaa",
       "db": {
         "kind": "hana"
       }
